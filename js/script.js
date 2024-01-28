@@ -14,6 +14,16 @@
 // console.log(number());
 
 // ex-4
+// function raqamlarYigindisi(number) {
+//   let sum = 0;
+//   for (let i = 0; number; i++) {
+//       sum += number % 10;
+//       number = Math.trunc(number / 10);
+//   }
+//   return sum;
+// }
+// const number = 12345;
+// console.log(raqamlarYigindisi(number));
 
 // ex-5
 // function isLeapYear(year) {
